@@ -1,0 +1,11 @@
+3.2
+Swap two adjacent elements by adjusting only the links (and not the data) using
+a. singly linked lists
+b. doubly linked lists
+
+Traduccion
+
+3.2
+Intercambiar los elementos adjacent por configuracion de solo direccion (y no los datos) using
+a. lista simple enlazada
+b. lista doble enlazada
