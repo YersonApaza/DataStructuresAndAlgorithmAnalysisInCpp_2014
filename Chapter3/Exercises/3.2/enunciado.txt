@@ -6,9 +6,8 @@ b. doubly linked lists
 Traduccion
 
 3.2
-Intercambiar los elementos adjacent por configuracion de solo direccion (y no los datos) usando
+Intercambiar los elementos adjacente por configuracion de solo direccion (y no los datos) usando
 a. lista simple enlazada
 b. lista doble enlazada
 
-La Solucion para la pregunta (a)
 
