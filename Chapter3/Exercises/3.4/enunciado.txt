@@ -1,0 +1,7 @@
+3.4
+Given two sorted lists, L 1 and L 2 , write a procedure to compute L 1 ∩ L 2 using only
+the basic list operations.
+3.4 traduccion
+
+Dadas dos listas ordenadas, L 1 y L 2, escriba un procedimiento para calcular L 1 ∩ L 2 usando solo
+las operaciones básicas de la lista
