@@ -1,9 +1,7 @@
 #include <iostream>
 #include "list"
 #include "iterator"
-
 // creado por yersonapazat@gmail.com en 13/09/2019
-
 void showlist(std::list <int> *g,int stop)
 {
     std::list <int> :: iterator it;
