@@ -14,6 +14,7 @@ Intercambiar los elementos adjacente por configuracion de solo direccion (y no l
 a. lista simple enlazada
 b. lista doble enlazada
 
+http://ms.ntub.edu.tw/~spade/ referencia!
 
 */
 // creado por yersonapazat@gmail.com en 16/09/2019
