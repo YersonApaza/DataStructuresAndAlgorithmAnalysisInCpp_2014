@@ -74,12 +74,17 @@ void SwapTwoAdjacentNodes_Double(node* P)
     izquierdaP = P->izq;
     derechaP = P->der;
 
-    P->der = derechaP->der;
-    izquierdaP->der = derechaP;
-    derechaP->der = P;
-    P->der->izq = P;
-    P->izq = derechaP;
-    derechaP->izq = izquierdaP;
+
+    P->der = derechaP->der;//1
+
+    izquierdaP->der = derechaP;//2 Este Paso Va A variar
+
+    derechaP->der = P;//3
+    //
+    P->der->izq = P;//4
+
+    P->izq = derechaP;//5
+    derechaP->izq = izquierdaP;//6
 
 }
 void test(listnodedoble *g)
@@ -110,3 +115,4 @@ int main(){
     showlist(L);
     std::cout<<"\nFinal\n";
 }
+
