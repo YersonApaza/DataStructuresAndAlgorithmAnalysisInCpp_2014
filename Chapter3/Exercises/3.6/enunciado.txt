@@ -1,0 +1,30 @@
+3.6
+The Josephus problem is the following game: N people, numbered 1 to N, are sitting
+in a circle. Starting at person 1, a hot potato is passed. After M passes, the person
+holding the hot potato is eliminated, the circle closes ranks, and the game con-
+tinues with the person who was sitting after the eliminated person picking up the
+hot potato. The last remaining person wins. Thus, if M = 0 and N = 5, players
+are eliminated in order, and player 5 wins. If M = 1 and N = 5, the order of
+elimination is 2, 4, 1, 5.
+a. Write a program to solve the Josephus problem for general values of M and N.
+Try to make your program as efficient as possible. Make sure you dispose of
+cells.
+b. What is the running time of your program?
+c. If M = 1, what is the running time of your program? How is the actual speed
+affected by the delete routine for large values of N (N > 100,000)?
+
+3.6
+El problema de Josephus es el siguiente juego: N personas, numeradas del 1 al N, están sentadas
+en un círculo. Comenzando en la persona 1, se pasa una papa caliente. Después de que M pasa, la persona
+se elimina sostener la papa caliente, el círculo cierra filas y el juego continúa
+continúa con la persona que estaba sentada después de que la persona eliminada recogiera el
+patata caliente. La última persona restante gana. Por lo tanto, si M = 0 y N = 5, los jugadores
+son eliminados en orden, y el jugador 5 gana. 
+Si M = 1 y N = 5, el orden de la eliminación es 2, 4, 1, 5.
+
+a. Escriba un programa para resolver el problema de Josephus para valores generales de M y N.
+Intenta hacer que tu programa sea lo más eficiente posible. Asegúrese de deshacerse de
+Células.
+b. ¿Cuál es el tiempo de ejecución de su programa?
+C. Si M = 1, ¿cuál es el tiempo de ejecución de su programa? ¿Cómo es la velocidad real?
+afectado por la rutina de borrado para valores grandes de N (N> 100,00s0)?
